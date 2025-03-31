@@ -1,3 +1,5 @@
+[-]Official themes
+[~]Testing forum
 [+]Fixed bugs
-[+]New theme
-[~]Testing Forum
+[~]Testing auto-backdoor function
+[+]New update form

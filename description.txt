@@ -1,6 +1,4 @@
-[-]Official themes
-[~]Testing forum
+[+]Ai Chat With 4 AIs
 [+]Fixed bugs
-[~]Testing auto-backdoor function
-[+]New update form
-[~]Testing ai
+[+]Compilated main executable
+[+]Added working ScriptHub.

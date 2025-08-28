@@ -1,4 +1,1 @@
-[+]Ai Chat With 4 AIs
-[+]Fixed bugs
-[+]Compilated main executable
-[+]Added working ScriptHub.
+[~]Restored

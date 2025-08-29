@@ -1,1 +1,3 @@
 [~]Restored
+[+]Fixed Bugs
+[-]Removed autoexec folder
